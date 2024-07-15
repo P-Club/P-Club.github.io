@@ -1,4 +1,14 @@
 @charset "utf-8";
+body{
+    font-family: "Noto Sans JP", sans-serif;
+    font-optical-sizing: auto;
+};
+
+body main{
+    margin-left: 100px;
+    margin-right: 100px;
+};
+
 img{
     pointer-events: none;
 };
